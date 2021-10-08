@@ -1,8 +1,8 @@
-# Troubleshooting Image Segmentation Models withHuman-In-The-Loop
+# Troubleshooting Image Segmentation Models with Human-In-The-Loop
 
 Haotao Wang, Tianlong Chen, Zhangyang Wang, Kede Ma
 
-In Machine Learning Journal, 2021
+_Machine Learning Journal_, 2021
 
 ## Overview
 We propose a human-in-the-loop framework to efficiently troubleshoot state-of-the-art image segmentation models by iteratively spotting and fixing its errors.
